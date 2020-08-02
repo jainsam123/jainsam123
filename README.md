@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sameer-jain-882589158/)](https://www.linkedin.com/in/sameer-jain-882589158/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sameer2000jain12@gmail.com)](mailto:sameer2000jain12@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sameer.jain.56829446)](https://www.facebook.com/sameer.jain.56829446)
-[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Codepen&logoColor=white&link=https://jainsam123.000webhostapp.com/)](https://jainsam123.000webhostapp.com/)
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Codepen&logoColor=white&link=https://jainsam123.netlify.app/)](https://jainsam123.netlify.app/)
 
 ---
 ### Hey there!
